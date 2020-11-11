@@ -1,5 +1,6 @@
 # Integrative Analysis for COVID-19 Patient Outcome Prediction
-The code for paper [**Integrative Analysis for COVID-19 Patient Outcome Prediction**](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7386508)
+The code for paper [**Integrative Analysis for COVID-19 Patient Outcome Prediction**](https://doi.org/10.1016/j.media.2020.101844)
+1. H. Chao, X. Fang, J. Zhang, F. Homayounieh, C.D. Arru, S.R. Digumarthy, R. Babaei, H.K. Mobin, I. Mohseni, L. Saba, A. Carriero, Z. Falaschi, A. Pasche, G. Wang, M.K. Kalra, P. Yan. "Integrative Analysis for COVID-19 Patient Outcome Prediction," Medical Image Analysis (MEDIA), vol. 67, pp. 101844, January (2021)
 ![overview](overview.jpg)
 
 ## Citation
